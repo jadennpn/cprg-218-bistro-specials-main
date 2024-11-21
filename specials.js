@@ -3,7 +3,7 @@ console.log(currentdate);
 const day = currentdate.getDay();
 /*0-6 sunday is 0, sat is 6*/
 //const day = 6;
-console.log(day); 
+console.log(day);
 
 if(day==0){
 specialtitle.innerHTML = 
